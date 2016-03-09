@@ -11,4 +11,4 @@ Dishes: https://www.assetstore.unity3d.com/en/#!/content/5333
 
 To read in more detail and to see the game in action check out my blogs posts about creating Mano Italiano:
 http://www.angelaitp.com/2016/02/28/assignment-3-connecting-to-unity/
-http://www.angelaitp.com/2016/03/09/mano-italiano-a-unit-leap-motion-game/
+http://www.angelaitp.com/2016/03/09/mano-italiano-a-unity-leap-motion-game/
